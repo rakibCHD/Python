@@ -1,6 +1,2 @@
 # some Python Practice code
-  
- 
- 
- 
  
