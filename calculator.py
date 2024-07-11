@@ -8,7 +8,7 @@ def multiply(x, y):
     return x * y
     
 def divide(x, y):
-    return x / y 
+    return x / y  
   
 print("Select operation.")
 print("1.Add")
