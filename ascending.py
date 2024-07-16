@@ -6,4 +6,4 @@ numbers = list(map(int, user_input.split()))
 ascending_order = sort_ascending(numbers)
 print(f"List in ascending order: {ascending_order}")  
  
- 
+  
