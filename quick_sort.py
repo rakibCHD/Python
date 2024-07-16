@@ -14,4 +14,4 @@ ascending_order = quick_sort(numbers[:])  # Sorting in ascending order
 descending_order = quick_sort(numbers[:])[::-1]  # Sorting in descending order
 
 print(f"List in ascending order: {ascending_order}")
-print(f"List in descending order: {descending_order}") 
+print(f"List in descending order: {descending_order}")  
