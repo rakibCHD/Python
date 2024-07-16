@@ -29,3 +29,4 @@ descending_order = merge_sort(numbers[:])[::-1]  # Sorting in descending order
 print(f"List in ascending order: {ascending_order}")
 print(f"List in descending order: {descending_order}")
  
+ 
