@@ -1,4 +1,4 @@
-def insertion_sort_ascending(arr):
+ bdef insertion_sort_ascending(arr):
     for i in range(1, len(arr)):
         key = arr[i]
         j = i - 1
