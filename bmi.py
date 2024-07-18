@@ -35,5 +35,5 @@ def input_output():
 
 if __name__ == "__main__":
     display()
-    input_output()
+    input_output() 
  
