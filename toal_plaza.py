@@ -169,7 +169,7 @@ def logout():
         clear_console()
         summary_report()
     else:
-        logout()
+        logout() 
 
 def summary_report():
     print("\n--------------Summary Report-------------")
