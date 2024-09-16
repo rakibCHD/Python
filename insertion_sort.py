@@ -16,7 +16,7 @@ def insertion_sort_descending(arr):
             arr[j + 1] = arr[j]
             j -= 1
         arr[j + 1] = key
-    return arr
+    return arr 
 
 user_input = input("Enter numbers separated by spaces: ")
 numbers = list(map(int, user_input.split()))
