@@ -6,3 +6,4 @@ if x % 2 == 0:
 else:
     print(f"{x} is an Odd Number.")  
  
+ 
