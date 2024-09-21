@@ -18,7 +18,7 @@ def merge(left, right):
             j += 1
     result.extend(left[i:])
     result.extend(right[j:])
-    return result
+    return result 
 
 user_input = input("Enter numbers separated by spaces: ")
 numbers = list(map(int, user_input.split()))
