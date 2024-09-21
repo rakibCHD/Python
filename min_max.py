@@ -25,4 +25,4 @@ min_number, max_number = find_min_max(numbers)
 # Print the results
 print(f"The minimum number is {min_number}")
 print(f"The maximum number is {max_number}")
- 
+  
