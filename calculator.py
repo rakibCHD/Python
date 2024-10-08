@@ -43,5 +43,5 @@ while True:
         if next_calculation == "no":
           break
     else:
-        print("Invalid Input") 
+        print("Invalid Input")  
  
