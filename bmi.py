@@ -31,7 +31,7 @@ def input_output():
         print("You are Overweighted.")
     elif final_result >= 30:
         print(f"Your BMI is: {final_result:.4f}")
-        print("You are in Obesity & it is a risk to health.")
+        print("You are in Obesity & it is a risk to health.") 
 
 if __name__ == "__main__":
     display()
