@@ -5,4 +5,4 @@ my_list = [10, 20, 30, 40]
 for i in range(len(my_list)):
     print(f"Element at index {i}: {my_list[i]}")
  
- 
+  
