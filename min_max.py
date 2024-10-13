@@ -3,7 +3,7 @@ def find_min_max(numbers):
         return None, None
     
     min_number = numbers[0]
-    max_number = numbers[0]
+    max_number = numbers[0] 
 
     for number in numbers:
         if number < min_number:
