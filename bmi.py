@@ -15,7 +15,7 @@ def display():
 def input_output():
     weight_kg = float(input("Enter Your Weight(kg): "))
     height_feet = float(input("Enter Your Height(feet): "))
-    height_inches = float(input("Enter Your Height(inches): "))
+    height_inches = float(input("Enter Your Height(inches): ")) 
     
     print("Calculating........\n")
     final_result = bmi_calculation(height_feet, height_inches, weight_kg)
