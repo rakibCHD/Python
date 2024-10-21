@@ -30,4 +30,4 @@ print(f"List in ascending order: {ascending_order}")
 print(f"List in descending order: {descending_order}")
  
   
-  
+   
