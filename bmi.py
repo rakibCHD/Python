@@ -2,7 +2,7 @@ def bmi_calculation(h_feet, h_inches, weight):
     height = (h_feet * 0.3048) + (h_inches * 0.0254)
     bmi = weight / (height * height)
     return bmi
-
+ 
 def display():
     print("-------------BMI-----------")
     print("------Body Mass Index------\n")
