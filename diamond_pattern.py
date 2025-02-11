@@ -7,7 +7,7 @@ def main():
             print(" ", end="")
         for k in range(2 * i - 1):
             print("*", end="")
-        print() 
+        print()  
 
     # Lower part of the diamond
     for i in range(1, r):
