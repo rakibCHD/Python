@@ -1,4 +1,4 @@
-def find_min_max(numbers):
+def find_min_max(numbers): 
     if len(numbers) == 0:
         return None, None
     
@@ -26,3 +26,4 @@ min_number, max_number = find_min_max(numbers)
 print(f"The minimum number is {min_number}")
 print(f"The maximum number is {max_number}")
    
+
